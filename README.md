@@ -91,7 +91,7 @@ El programa utiliza **Seaborn** y **Matplotlib** para generar:
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/usuario/proyecto-estadisticas
+   git clone https://github.com/JuanJoseBastoGonzalez/taller-python
    cd proyecto-estadisticas
    ```
 
